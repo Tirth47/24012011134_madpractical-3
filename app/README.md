@@ -13,7 +13,7 @@ Create an Android application which demonstrates implicit and explicit Intent.
 
 ### 🎥 Demo
 
-https://github.com/user-attachments/assets/7f6118af-51a4-4e22-ae59-134f6b474d46
+https://github.com/Tirth47/24012011134_madpractical-3/blob/master/Screen%20Recording%202026-08-25%20220147.mp4
 
 </td>
 
