@@ -1,6 +1,5 @@
 package com.example.a24012011134_madpractical_3
 
-
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
